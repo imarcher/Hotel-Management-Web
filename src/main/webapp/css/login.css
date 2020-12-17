@@ -1,0 +1,31 @@
+			#top{
+				height: 160px;
+				
+			
+			}
+			#top1{
+				height: 50px;
+			}
+			#bottom{
+				height: 100px;	
+				
+			}
+			#login_table{
+				height: 400px;
+				background-color:rgba(255, 255, 255, 0.7);
+			}
+			h1{
+				font-size: 50px;
+				color: white;
+			}
+			#t1,#t2,#t3,#t4,#t5{
+				height: 80px;
+			}
+			#t1{
+				padding:20px;
+				font-size: 30px;
+			}
+			#t51{
+				color: blue;
+				font-size: 10px;
+			}
